@@ -1,13 +1,12 @@
 <!-- Animated Header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Raghav%20Deshpande&fontSize=40&fontColor=ffffff"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Raghav%20Deshpande&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 <h1 align="center">Hi 👋, I'm Raghav Deshpande</h1>
 
-<!-- Typing Animation -->
+<h3 align="center">🚀 Full Stack Web Developer | IT Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Node.js+%7C+MongoDB+Developer;React+Learner;Passionate+Programmer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Initializing+Developer...;Loading+Skills...;Ready+to+Build+Amazing+Projects"/>
 </p>
 
 <!-- Coding GIF -->
@@ -18,7 +17,7 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 B.tech Student in **Information Technology** <br>
 🏫 Studying at **Vishwakarma Institute Of Technology, Pune**<br>
@@ -31,7 +30,7 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -51,42 +50,30 @@
 
 ---
 
-# 🚀 Tech Stack
+## 💻 Tech Stack
+
+| Category                  | Technologies                                                             |
+| ------------------------- | ------------------------------------------------------------------------ |
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,java" />                  |
+| **Frontend Development**  | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" /> |
+| **Backend Development**   | <img src="https://skillicons.dev/icons?i=nodejs,express,php" />          |
+| **Database**              | <img src="https://skillicons.dev/icons?i=mongodb,mysql" />               |
+| **Tools & Platforms**     | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />   |
+
+
+---
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,bootstrap,php,nodejs,express,react,mongodb,mysql,git,github,vscode,postman"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRaghav2006&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
-# 📊 GitHub Stats
+## ✍️ Random Developer Quote
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ItsRaghav2006&show_icons=true&theme=tokyonight"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=ItsRaghav2006&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRaghav2006&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 GitHub Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsRaghav2006&theme=tokyo-night"/>
-
----
-
-# ✍️ Random Developer Quote
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
----
+</p>
 
 <!-- Animated Footer -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=140&section=footer"/>
